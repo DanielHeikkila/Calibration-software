@@ -1,0 +1,22 @@
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\bin\Release\test1 472.exe.config
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\bin\Release\test1 472.exe
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\bin\Release\test1 472.pdb
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\bin\Release\Siemens.Engineering.dll
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\bin\Release\Siemens.Engineering.Meta.Cax.14.0.1.0.dll
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\bin\Release\Siemens.Engineering.Meta.Cax.15.0.0.0.dll
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\bin\Release\Siemens.Engineering.Meta.Cax.15.1.0.0.dll
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\bin\Release\Siemens.Engineering.Meta.Cax.16.0.0.0.dll
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\bin\Release\Siemens.Engineering.Meta.Vci.16.0.0.0.dll
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\bin\Release\Siemens.Engineering.xml
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\obj\Release\test1 472.csproj.AssemblyReference.cache
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\obj\Release\test1 472.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\obj\Release\test1_472.Form1.resources
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\obj\Release\Splash_Screen_nTest.SplashScreen1.resources
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\obj\Release\StartDriveParameterEditor.ProjectSelectionForm.resources
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\obj\Release\test1_472.Properties.Resources.resources
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\obj\Release\StartDriveParameterEditor.RamToRomDialog.resources
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\obj\Release\test1 472.csproj.GenerateResource.cache
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\obj\Release\test1 472.csproj.CoreCompileInputs.cache
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\obj\Release\test1 472.csproj.CopyComplete
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\obj\Release\test1 472.exe
+C:\Users\danie.DANIELS_PC\source\repos\test1 472\test1 472\obj\Release\test1 472.pdb
